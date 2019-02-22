@@ -21,4 +21,4 @@ My goal in addiction to "steroidize" my CSS for the 101 days stil to go, is to f
 </p>
 
 <h2>Let's go </h2>
-Day 200: Did lectures on Sass and coded some test of it on Codepen.io! I'm totally loving it
+Day 200: Did lectures on Sass and coded some tests of it on Codepen.io! I'm totally loving it
