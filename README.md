@@ -9,7 +9,7 @@ The reason why i decided to begin this journey is because while working as a Com
 
 I started the 100daysofcode challenge taking a course on Responsive Web Design for static websites so that i could review my html/css and improve it, learning some libraries such as Bootstrap and Bulma and finally wrote a couple of miniprojects. 
 
-As soon as i finished the things i mentioned above, i took another course on Advanced Wordpress learning within it the basics of Javascript(jQuery) and PhP. Final step was to wrote a simple OnePage site and convert it in Wordpress; That's exactly what i did and <br> <strong> BOOM my site was UP and RUNNING <strong>. What a Satisfaction guys!  </strong>
+As soon as i finished the things i mentioned above, i took another course on Advanced Wordpress learning within it the basics of Javascript(jQuery) and PhP. Final step was to wrote a simple OnePage site and convert it in Wordpress; That's exactly what i did and <br> <strong> BOOM my site was UP and RUNNING </strong>. What a Satisfaction guys!
 
 Those were my first succesful 100 days, i took a break of a week and then decided to go on to reach the 301daysofcode. Sometimes it's stressful with another job and tons of other things to do, like family, friends and other hobbies, but you know, you can do it if you want!
 
