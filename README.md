@@ -17,7 +17,7 @@ I spent the other 99 days coding my portfolio, a couple of commissioned sites, w
 
 Just a week ago i purchased and started the Jonas Schmedtmann course on Advanced CSS and SASS 'cause i really want to master them in order to deliver my clients the best and the most beautiful and usable UI possible. (I'm a UI/UX woman, remember? xD). 
 
-My goal in addiction to "steroidize" my CSS for the 101 days stil to go, is to fully understand and improve my Vanilla Javascript and then master a library between Vue.js and React.js 
+My goal, in addiction to "steroidize" my CSS for the 101 days still to go, is to fully understand and improve my Vanilla Javascript and then master a library between Vue.js and React.js 
 </p>
 
 <h2>Let's go </h2>
