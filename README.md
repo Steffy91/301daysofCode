@@ -20,5 +20,5 @@ Just a week ago i purchased and started the Jonas Schmedtmann course on Advanced
 My goal in addiction to "steroidize" my CSS for the 101 days stil to go, is to fully understand and improve my Vanilla Javascript and then master a library between Vue.js and React.js 
 </p>
 
-
+<h2>Let's go </h2>
 Day 200: Did lectures on Sass and coded some test of it on Codepen.io! I'm totally loving it
