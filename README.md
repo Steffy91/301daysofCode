@@ -22,3 +22,5 @@ My goal, in addiction to "steroidize" my CSS for the 101 days still to go, is to
 
 <h2>Let's go </h2>
 Day 200: Did lectures on Sass and coded some tests of it on Codepen.io! I'm totally loving it
+Day 201: Did lectures on Sass and coded some tests of it on Codepen.io
+Day 202: Messing with npm and command line 
