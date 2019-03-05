@@ -26,4 +26,8 @@ Day 201: Did lectures on Sass and coded some tests of it on Codepen.io <br>
 Day 202: Messing with npm and command line  <br>
 Day 203: Sass again  <br>
 Day 204: Sass Sass and Sass <br>
+Day 205: BEM style and stuff <br>
+Day 206: Converting stuff in BEM structure <br>
+Day 207: Sass Sass and Sass <br>
+
 
