@@ -30,4 +30,5 @@ Day 205: BEM style and stuff <br>
 Day 206: Converting stuff in BEM structure <br>
 Day 207: Sass Sass and Sass <br>
 Days 208-217: Started and finished a complex website in full html/sass without javascript. <br>
+Days 218-222: Revising Javascript ES6 in order to begin with React <br>
 
